@@ -24,5 +24,5 @@ By: Andrew Mullen
  
 
 # Diagram:
-Click the visual diagram [HERE](https://github.com/andmulLABS01/Blitz1/blob/main/Blitz1.drawio.png)
+Click to see the visual diagram [HERE](https://github.com/andmulLABS01/Blitz2/blob/main/Blitz2.drawio.png)
          
