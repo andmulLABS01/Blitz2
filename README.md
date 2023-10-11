@@ -21,6 +21,7 @@ By: Andrew Mullen
   - To resolve the issue, we created a more robust EC2 instance of our production server.
   - The new EC2 instance (T2.xlarge) has 4 vCPUs while the original (T2.medium) only has 2 vCPUs.
   - We are going to ask the QA engineer to run the test again on the updated server and record the results.
+    - The QA engineer reran the test on the new instance and was able to support all of the 14,000 connections.
  
 
 # Diagram:
